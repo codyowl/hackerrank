@@ -10,4 +10,4 @@ A repo full of hackerrank problems' solution am solving with python
   [cat_and_a_mouse.py](https://github.com/codyowl/hackerrank/blob/master/cat_and_a_mouse.py)  
 
 - [Designer Pdf Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) : <br />
-  [designer_pdf.viewer.py]()  
+  [designer_pdf.viewer.py](https://github.com/codyowl/hackerrank/blob/master/designer_pdf_viewer.py)  
