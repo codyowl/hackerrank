@@ -11,3 +11,6 @@ A repo full of hackerrank problems' solution am solving with python
 
 - [Designer Pdf Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) : <br />
   [designer_pdf.viewer.py](https://github.com/codyowl/hackerrank/blob/master/designer_pdf_viewer.py)  
+
+- [Finding Digit](https://www.hackerrank.com/challenges/find-digits/problem) : <br />
+  [finding_digit.py](https://github.com/codyowl/hackerrank/blob/master/find_digits.py)   
