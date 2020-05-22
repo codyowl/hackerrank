@@ -14,3 +14,6 @@ A repo full of hackerrank problems' solution am solving with python
 
 - [Finding Digit](https://www.hackerrank.com/challenges/find-digits/problem) : <br />
   [finding_digit.py](https://github.com/codyowl/hackerrank/blob/master/find_digits.py)   
+
+- [Cut the Sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) : <br />
+  [cut_the_sticks.py](https://github.com/codyowl/hackerrank/blob/master/cut_the_sticks.py)     
