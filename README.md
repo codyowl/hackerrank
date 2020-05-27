@@ -17,3 +17,6 @@ A repo full of hackerrank problems' solution am solving with python
 
 - [Cut the Sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) : <br />
   [cut_the_sticks.py](https://github.com/codyowl/hackerrank/blob/master/cut_the_sticks.py)     
+
+- [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit/problem)
+  [bon_appetit.py](https://github.com/codyowl/hackerrank/blob/master/bon_appetit.py)  
