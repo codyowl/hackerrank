@@ -19,4 +19,7 @@ A repo full of hackerrank problems' solution am solving with python
   [cut_the_sticks.py](https://github.com/codyowl/hackerrank/blob/master/cut_the_sticks.py)     
 
 - [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit/problem)
-  [bon_appetit.py](https://github.com/codyowl/hackerrank/blob/master/bon_appetit.py)  
+  [bon_appetit.py](https://github.com/codyowl/hackerrank/blob/master/bon_appetit.py)
+
+- [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
+  [beautiful_days_at_movies.py](https://github.com/codyowl/hackerrank/blob/master/beautiful_days_at_movies.py)     
