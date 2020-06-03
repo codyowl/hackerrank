@@ -26,3 +26,6 @@ A repo full of hackerrank problems' solution am solving with python
 
 - [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) : <br />
   [sherlock_and_squares.py](https://github.com/codyowl/hackerrank/blob/master/sherlock_and_squares.py)  
+
+- [Choclate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem) : <br /> 
+  [choclate_feast.py](https://github.com/codyowl/hackerrank/blob/master/chocolate_feast.py)   
