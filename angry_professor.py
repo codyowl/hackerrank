@@ -9,11 +9,14 @@ def angryProfessor(k, a):
     for time in a:
         if time > 0:
             late_comer_count += 1
-    if late_comer_count == k or late_comer_count > k:
-        return "NO"
+    if abs(len(a) - late_comer_count) > k:
+    	return 'NO'
+    elif abs(len(a) - late_comer_count) = k:
+    	return 'NO'
     else:
-        return "YES"        
+    	return 'YES'		
 
+# previous mistake was added the if and elif logic as 'or'    	
 
 #k = 4
 #a = [-93, -86, 49, -62, -90, -63, 40, 72, 11, 67]
@@ -21,3 +24,6 @@ def angryProfessor(k, a):
 # k = 10
 # a = [23, -35, -2, 58, -67, -56, -42, -73, -19, 37]
 # print (angryProfessor(k, a))        
+k = 3
+a = [-1, -3, 4, 2]
+print (angryProfessor(k, a)) 
